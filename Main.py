@@ -14,10 +14,8 @@ def topFiveFilms():
 
     #print 5th movie
     print("star wars")
-
 print("these are my top 5 movies")
 #run function
-topFiveFilms()
 def topFiveSports():
     #print first sport
     print("soccer")
@@ -29,7 +27,6 @@ def topFiveSports():
     print("skiing")
     #print fifth sport
     print("hockey")
-
 def topFiveFamilyMembers():
     #print 1st family member
     print("brother")
@@ -58,3 +55,11 @@ def topFiveResurants():
     print("chipotle")
     #print 5th Resurant
     print("Kains")
+#create a function that prints your name
+#followed by "is my name"
+def myNameIs(Turtle):
+    #output string
+    print(Turtle + " is my name")
+#run function
+myNameIs("Evan")
+myNameIs("fhf")
