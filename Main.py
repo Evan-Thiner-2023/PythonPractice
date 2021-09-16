@@ -68,3 +68,18 @@ def timesTwo(lol):
     print(lol*2)
 #run function
 timesTwo(8)
+def minusFive(xx):
+    #minus 5
+    print(xx-5)
+def divideByTwo(yy):
+    #divide by 2
+    print(yy/2)
+#run function
+minusFive(55)
+#run function
+divideByTwo(200)
+def addTwoNumbers(x,y):
+    #add x and y
+    print(x+y)
+#run Function 
+addTwoNumbers(43,34)
