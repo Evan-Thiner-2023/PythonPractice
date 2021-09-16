@@ -14,7 +14,6 @@ def topFiveFilms():
 
     #print 5th movie
     print("star wars")
-print("these are my top 5 movies")
 #run function
 def topFiveSports():
     #print first sport
@@ -63,3 +62,9 @@ def myNameIs(Turtle):
 #run function
 myNameIs("Evan")
 myNameIs("fhf")
+
+def timesTwo(lol):
+    #*2
+    print(lol*2)
+#run function
+timesTwo(8)
