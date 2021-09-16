@@ -83,3 +83,6 @@ def addTwoNumbers(x,y):
     print(x+y)
 #run Function 
 addTwoNumbers(43,34)
+def madLib(a,b,c,d,e,f,g,h,i,j,k):
+    print("Star war is a "+ a+ " " + b+ " " + "of " + c +" " + "versus evil in a " + d + " far far away." + " There are " + f + " battles between "+g+" "+h+" "+ " in "+ j+ " space and "+ k +" duels with"+ e +" called"+ I+ " sabers")
+madLib( "cool","movie","good","galaxy","Epic","cool","space ships","scary","epic","lights","light")ei
