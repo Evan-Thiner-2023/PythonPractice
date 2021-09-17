@@ -1,17 +1,12 @@
 def topFiveFilms():
-
     #print 1st movie
     print("lord of the rings")
-
     #print 2nd movie
     print("the hunger games")
-
     #print 3rd movie
     print("300")
-
     #print 4th movie
     print("the avengers endgame")
-
     #print 5th movie
     print("star wars")
 #run function
@@ -84,5 +79,15 @@ def addTwoNumbers(x,y):
 #run Function 
 addTwoNumbers(43,34)
 def madLib(a,b,c,d,e,f,g,h,i,j,k):
-    print("Star war is a "+ a+ " " + b+ " " + "of " + c +" " + "versus evil in a " + d + " far far away." + " There are " + f + " battles between "+g+" "+h+" "+ " in "+ j+ " space and "+ k +" duels with"+ e +" called"+ I+ " sabers")
-madLib( "cool","movie","good","galaxy","Epic","cool","space ships","scary","epic","lights","light")ei
+    #print madlib
+    print("Star war is a "+ a+ " " + b+ " " + "of " + c +" " + "versus evil in a " + d + " far far away." + " There are " + f + " battles between "+g+" "+h+" "+ i + " in "+ j+ " space and "+ k +" duels with"+ e +" called"+ " sabers")
+#Run madlib
+madLib( "cool","movie","good","galaxy","Epic","cool","space ships","scary","epic","lights","light")
+def dillyDilly(fjf,djd):
+    print(fjf + djd)
+dillyDilly("t","i")
+def geom(loo):
+    print("Okay now this is epic")
+    print(loo)
+geom("cool")
+property(float)
